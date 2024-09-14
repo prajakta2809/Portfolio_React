@@ -1,0 +1,16 @@
+[
+  {
+    "title": "URL-Shortner",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to learn about MVC and Rest APIs.Implemented basic logic for coverting long url into short.You can also check number of clicks on urls.",
+    "skills": ["HTML", "CSS", "Javascript","Node","Express","JWT"],
+    "source": "https://github.com/prajakta2809/URL-Shortner"
+  },
+  {
+    "title": "Blog",
+    "imageSrc": "projects/project.png",
+    "description": "A blogging application with REST APIs, user authentication, authorization, and a responsive UI built using HTML, CSS, and JavaScript..",
+    "skills": ["HTML", "CSS", "Javascript","Node","Express","JWT"],
+    "source": "https://github.com/prajakta2809/Blog"
+  }
+]

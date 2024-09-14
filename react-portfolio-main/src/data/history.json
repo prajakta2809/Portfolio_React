@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Analyst(Backend)",
+    "organisation": "Deloitte",
+    "startDate": "Dec, 2022",
+    "endDate": "Present",
+    "experiences": ["Building and improving existing features using Nodejs", "Improved batches performance by 30%"]
+  
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Appsdeployer",
+    "startDate": "Feb, 2022",
+    "endDate": "Mar, 2022",
+    "experiences": ["Worked on building REST APIs at fast paced startups", "Collaborated with frontend team to improve UI"]
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Agrogram",
+    "startDate": "Feb, 2021",
+    "endDate": "May, 2021",
+    "experiences": [
+      "Build frontend for e-commerce website",
+      "Used framework Ionic5 for mobile application development."
+    ]
+  }
+]
+
+ 
